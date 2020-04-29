@@ -1,0 +1,2 @@
+rootProject.name='PDFSaveTest'
+include ':app'
