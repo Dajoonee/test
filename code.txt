@@ -1,0 +1,12 @@
+public class code {
+
+  public void method() {
+
+	int a = 5;
+	int b = 6;
+
+	int result = a+b;
+
+	}
+
+}
